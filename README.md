@@ -1,6 +1,6 @@
 # PBI_human_resource_data_analysis
 
- The purpose of this project is to extract information about resource human data
+ The purpose of this project is to extract information about resource human data. This project was developed in a Data Science Academy course: https://www.datascienceacademy.com.br
 
  The questions below must be answered:
 
